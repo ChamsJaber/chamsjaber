@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Chamess Jaber, a 23-year-old dedicated full-stack web developer with a strong focus on the MERN stack and frontend technologies. I’m passionate about building intuitive, user-friendly web applications and continuously pushing myself to learn, grow, and create solutions that make a meaningful impact. 🚀  
+👋 Hi, I'm Chamess Jaber, a 23-year-old dedicated full-stack web developer with a strong focus on the MERN stack and frontend technologies. I’m passionate about building intuitive, user-friendly web applications and continuously pushing myself to learn, grow, and create solutions that make a meaningful impact. 🚀  
 
 
 ## 🌐 Socials:
@@ -11,5 +11,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=chamsjaber&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chamsjaber&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chamsjaber&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
